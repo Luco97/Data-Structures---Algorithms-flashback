@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Estructura de datos y Algoritmos.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="merge-sort.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
