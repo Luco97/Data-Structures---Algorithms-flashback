@@ -129,12 +129,13 @@
   <ItemGroup>
     <ClCompile Include="Estructura de datos y Algoritmos.cpp" />
     <ClCompile Include="mergeTest.cpp" />
-    <ClCompile Include="stackSort.cpp" />
+    <ClCompile Include="stackTest.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="merge-sort.h" />
     <ClInclude Include="mergeTest.h" />
-    <ClInclude Include="stackSort.h" />
+    <ClInclude Include="stack-sort.h" />
+    <ClInclude Include="stackTest.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

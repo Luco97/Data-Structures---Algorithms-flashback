@@ -21,7 +21,7 @@
     <ClCompile Include="mergeTest.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="stackSort.cpp">
+    <ClCompile Include="stackTest.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,7 +32,10 @@
     <ClInclude Include="mergeTest.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
-    <ClInclude Include="stackSort.h">
+    <ClInclude Include="stackTest.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="stack-sort.h">
       <Filter>Archivos de encabezado</Filter>
     </ClInclude>
   </ItemGroup>
