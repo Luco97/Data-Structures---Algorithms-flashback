@@ -3,8 +3,10 @@
 
 //Headers
 #include "mergeTest.h"
+#include "stackTest.h"
 
 int main()
 {
-	mergeTest();
+	//mergeTest();
+	stackTest();
 }
