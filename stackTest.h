@@ -3,5 +3,8 @@
 #include <iostream>
 #include <stack>
 
-void stackSortWhitoutVector();
+//Headers
+#include "stack-sort.h"
+
+void stackTest();
 
